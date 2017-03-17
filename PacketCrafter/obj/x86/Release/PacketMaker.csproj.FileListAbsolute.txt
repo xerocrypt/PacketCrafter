@@ -1,0 +1,8 @@
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\obj\x86\Release\PacketCrafter.Properties.Resources.resources
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\obj\x86\Release\PacketMaker.csproj.GenerateResource.Cache
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\obj\x86\Release\PacketCrafter.exe
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\obj\x86\Release\PacketCrafter.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\bin\Release\PacketCrafter.exe
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\bin\Release\PacketCrafter.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\PacketCrafter\PacketCrafter\obj\x86\Release\PacketCrafter.frmMainUI.resources
+C:\Users\michael\Documents\Visual Studio 2010\Projects\PacketCrafter\PacketCrafter\obj\x86\Release\PacketMaker.csprojResolveAssemblyReference.cache
